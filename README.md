@@ -35,8 +35,10 @@ __PROCEDURE:__
 6.Verify the generated results
 
 __PROGRAM:__
+![WhatsApp Image 2025-11-24 at 13 26 50_b05c2dca](https://github.com/user-attachments/assets/48e49324-43e3-4cea-9eab-a9b4f43c10ca)
 
 __OUTPUT GRAPH:__
+<img width="1914" height="877" alt="Screenshot 2025-10-16 084732" src="https://github.com/user-attachments/assets/89fab8a0-656f-4986-966a-02c03f423e15" />
 
 __RESULT:__
-
+Thus the mean and variance and auto correlation are executed in scilab and output is verified
